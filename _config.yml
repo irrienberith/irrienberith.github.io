@@ -26,6 +26,7 @@ url: http://aronbordin.com/neo-hpstr-jekyll-theme # the base hostname & protocol
 twitter_username: irrienberith
 github_username:  irrienberith
 
+<<<<<<< HEAD
 # put your disqus here
 disqus_shortname:
 reading_time:     true # if true, shows the estimated reading time for a post
